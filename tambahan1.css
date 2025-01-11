@@ -1,0 +1,168 @@
+*,
+html {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: #ea5800;
+}
+
+
+.div-navbar {
+background-color: #baff6ee9;
+width: 100%
+height: 10vh;
+}
+
+.ul-navbar {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.li-navbar {
+  margin: 15px;
+}
+.li-navbar:hover {
+  background-color: tomato;
+  transition: 0,3s ease-in-out;
+  transition-delay: 1,5s;
+  border-radius: 10px 10px 10px 10px;
+  -webkit-border-radius: 10px 10px 10px 10px;
+  -moz-border-radius: 10px 10px 10px 10px;
+  
+}
+
+.a-navbar {
+  font-size: 20px;
+  text-decoration: none;
+  color: black;
+  font-weight: 100px;
+  text-shadow: 1px 4px 2px rgb(0,64,66);
+}
+
+.div-content {
+  width: 100%;
+  height:10vh
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.h1-content {
+  color: white;
+  font-size: 25px;
+  text-shadow: 4px 4px 2px rgba(0,0,0,0.6);
+  padding: 15px;
+}
+
+.h1-content1 {
+  color: white;
+  font-size: 20px;
+  font-weight: 90px;
+  margin-top: 10px;
+}
+
+.img-content1 {
+  background-color: purple;
+  width: 40%;
+  height: 100px;
+}
+
+.p-img {
+  color: white;
+}
+
+.h1-content2 {
+  color: white;
+  font-size: 20px;
+  font-weight: 90px;
+  margin-top: 10px;
+}
+
+.img-content2 {
+  width: 40%;
+  height: 100px;
+}
+
+.h1-content3 {
+  color: white;
+  font-size: 20px;
+  font-weight: 90px;
+  margin-top: 10px;
+}
+
+.img-content3 {
+  width: 40%;
+  height: 100px;
+}
+
+.h1-content0 {
+  color: white;
+  font-size: 25px;
+  text-shadow: 4px 4px 2px rgba(0,0,0,0.6);
+  padding: 15px;
+}
+
+.h1-content4 {
+  color: white;
+  font-size: 20px;
+  font-weight: 90px;
+  margin-top: 10px;
+}
+
+.img-content4 {
+  width: 40%;
+  height: 100px;
+}
+
+.h1-content5 {
+  color: white;
+  font-size: 20px;
+  font-weight: 90px;
+  margin-top: 10px;
+}
+
+.img-content5 {
+  width: 40%;
+  height: 100px;
+}
+
+.h1-content6 {
+  color: white;
+  font-size: 20px;
+  font-weight: 90px;
+  margin-top: 10px;
+}
+
+.img-content6 {
+  width: 40%;
+  height: 100px;
+}
+
+.div-footer {
+ background-color: #d32a00;
+ height: 15vh;
+}
+
+.h1-footer {
+  color: white;
+  font-weight: 90px;
+  font-size: 15px;
+  text-shadow: 4px 4px 2px rgba(0,0,0,0.6);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 15px;
+}
+
+.a-footer {
+  font-weight: 90px;
+  font-size: 25px;
+  text-decoration: none;
+  text-shadow: 4px 4px 2px rgba(0,0,0,0.6);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
